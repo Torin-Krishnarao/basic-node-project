@@ -1,0 +1,18 @@
+{
+  "name": "torin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react-native-elements": "^3.3.2",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
